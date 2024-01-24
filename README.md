@@ -2,6 +2,7 @@
 ### Reverse engineering
 ### Embedded Develop
 ### Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,pytorch,anaconda,selenium,java,spring,maven,arduino,raspberrypi,vue,md,php,mysql,linux,git,docker)](https://skillicons.dev)
 
 <!--
 **Kizureina/Kizureina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
